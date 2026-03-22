@@ -89,7 +89,7 @@ Funcionalidades:
 git clone https://github.com/seu-usuario/student-risk-prediction.git
 2. Instalar as dependências
 pip install -r requirements.txt
-3. Executar a aplicação
+3. Executar a aplicação dentro do VS Code na máquina local
 streamlit run app.py
 
 ## Principais Insights
