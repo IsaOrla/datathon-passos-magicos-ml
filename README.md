@@ -63,7 +63,9 @@ Essas variáveis permitem capturar a evolução do aluno e padrões mais complex
 
 ## Modelo de Machine Learning
 Modelo utilizado: Random Forest
+
 Tipo de problema: Classificação binária
+
 Objetivo: prever risco de defasagem futura
 
 O modelo foi construído considerando o comportamento dos alunos ao longo do tempo, tornando a previsão mais realista.
